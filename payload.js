@@ -2,7 +2,7 @@ let target = document.getElementById('target');
 let style = document.createElement('style');
 style.innerText = `
 .rotating {
-    animation: rotate 2s linear infinite;
+    animation: rotate 4s linear infinite;
 }
 
 @keyframes rotate {
